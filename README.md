@@ -8,7 +8,6 @@
 - [Deployed URL](#deployed-url)
 - [GitHub Repository](#github-repository)
 - [Author](#author)  
-- [Contributors](#contributors)
 - [Technologies Used](#technologies-used) 
 - [License](#license)
 
