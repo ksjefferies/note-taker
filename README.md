@@ -5,7 +5,6 @@
 
 - [Description](#description)
 - [Images](#images)
-- [Deployed URL](#deployed-url)
 - [GitHub Repository](#github-repository)
 - [Author](#author)  
 - [Technologies Used](#technologies-used) 
@@ -22,10 +21,6 @@ The Note Taker (TNT) is an application that can be used to write and save notes.
 ![Image of deployed Note Taker page](./assets/images/note-taker.jpg)
 
 ----
-## Deployed URL:
-
-- [Heroku Deployment](https://note-taker-2022-3.herokuapp.com/)
-----
 ## Github Repository:
 
 - [Github Repository for Note Taker](https://github.com/ksjefferies/note-taker)
@@ -41,7 +36,6 @@ The Note Taker (TNT) is an application that can be used to write and save notes.
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## License:
 
